@@ -1,0 +1,21 @@
+{
+  "name": "username-creator",
+  "version": "1.0.0",
+  "description":
+    "Generates username based upon given values. Random usernames could also be generated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balasubramanim/username-creator.git"
+  },
+  "keywords": ["username", "generator", "creator"],
+  "author": "Balasubramani M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balasubramanim/username-creator/issues"
+  },
+  "homepage": "https://github.com/balasubramanim/username-creator#readme"
+}
